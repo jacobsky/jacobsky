@@ -3,7 +3,7 @@
 Currently looking for work, would be grateful if you take a look around and see if I might be a good fit.
 現在新しい仕事を探す中です。私の経験やスキルのご興味がございましたら、最近のGithubのコミットをご覧ください。
 
-## Skills。技
+## Skills。スキル
 - Embedded C (The kind where `TRUE` is `0xFF`, `FALSE` is `0x00` and anything else means we need to run some diagnostics)
 - Python
 - C＃
@@ -20,8 +20,8 @@ Currently looking for work, would be grateful if you take a look around and see 
 - 2 years application development
 
 ## Hobby Experience。趣味経験
-- Various Web Programming stacks
-- Games programming using Godot Engine (Unity a decade ago)
+- Various Web Programming stacks・色々なウェブ開発Stack
+- Games development using Godot Engine・Godotゲームエンジンでゲーム開発する
 
 <!--
 **jacobsky/jacobsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
